@@ -1,7 +1,7 @@
 encoding: utf-8
-baseurl: http://blog.iken.be/en
-url: http://blog.iken.be/en
-title: The Last Blog
+baseurl: http://blog.iken.be/en/
+url: http://blog.iken.be/en/
+title: Dancing Elephant
 name: Ken Leung
 permalink:   /:categories/:title/
 markdown: redcarpet
