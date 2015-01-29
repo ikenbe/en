@@ -1,5 +1,6 @@
 encoding: utf-8
 baseurl: http://blog.iken.be/en
+url: http://blog.iken.be/en
 title: iKen on GitHub
 name: Ken Leung
 permalink:   /:categories/:title/
