@@ -1,7 +1,7 @@
 encoding: utf-8
 baseurl: http://blog.iken.be/en
 url: http://blog.iken.be/en
-title: iKen on GitHub
+title: The Last Blog
 name: Ken Leung
 permalink:   /:categories/:title/
 markdown: redcarpet
