@@ -1,7 +1,7 @@
 # Site navigation links
 
 - title: Home
-  url: {{site.url}}
+  url: {{ site.url }}
 
 - title: Posts
   url: /posts/
