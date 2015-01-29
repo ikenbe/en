@@ -19,7 +19,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Ken Leung
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "The thing is I'm a freak. The worse thing is I'm a smart freak. And the worst is I'm a fearless smart freak."
   email: ikenbe@gmail.com
   disqus-shortname: ikenbe
   twitter: ikenbe
